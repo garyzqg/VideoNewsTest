@@ -5,7 +5,8 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
     >
-        <activity android:name=".full.VideoViewActivity"/>
+        <activity android:name=".full.VideoViewActivity"
+                  android:screenOrientation="landscape"/>
 
     </application>
 
