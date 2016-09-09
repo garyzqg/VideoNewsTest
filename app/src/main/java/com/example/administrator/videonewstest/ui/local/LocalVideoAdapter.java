@@ -1,4 +1,4 @@
-package com.example.administrator.videonewstest;
+package com.example.administrator.videonewstest.ui.local;
 
 import android.content.Context;
 import android.database.Cursor;

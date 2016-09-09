@@ -1,4 +1,4 @@
-package com.example.administrator.videonewstest;
+package com.example.administrator.videonewstest.ui.local;
 
 import android.content.Context;
 import android.database.Cursor;
@@ -11,6 +11,7 @@ import android.widget.FrameLayout;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+import com.example.administrator.videonewstest.R;
 import com.example.administrator.videoplayer.full.VideoViewActivity;
 
 import butterknife.BindView;

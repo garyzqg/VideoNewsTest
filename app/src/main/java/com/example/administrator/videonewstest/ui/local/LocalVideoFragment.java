@@ -1,4 +1,4 @@
-package com.example.administrator.videonewstest;
+package com.example.administrator.videonewstest.ui.local;
 
 
 import android.database.Cursor;
@@ -14,6 +14,8 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.GridView;
+
+import com.example.administrator.videonewstest.R;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;
